@@ -25,5 +25,5 @@ public class ResultDB {
 
     public String getItem() {
         return item;
-    }
+    } //주석
 }
